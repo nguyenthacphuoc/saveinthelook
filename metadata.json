@@ -1,0 +1,6 @@
+{
+  "name": "AegisVault — Kho Mã & Ghi Chú Face ID 3D",
+  "description": "Nền tảng lưu trữ ghi chú và mã Python mã hóa AES-256-GCM, xác thực sinh trắc học Face ID 360° & so khớp mô hình 3D, đồng bộ trực tiếp GitHub, Webhook và cộng đồng.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
